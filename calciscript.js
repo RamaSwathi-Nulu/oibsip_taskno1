@@ -10,7 +10,7 @@ let input=document.getElementById('output');
             }
             catch(err)
             {
-                alert("invalid");
+                alert("Invalid Expression...");
             }
         }
         function last()
